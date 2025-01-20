@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution code](https://github.com/Adnan0-IM/newsletter-sign-up-with-success-message)
-- Live Site URL: [Live Demo](https://extraordinary-lollipop-1f783c.netlify.app/)
+- Live Site URL: [Live Demo](https://jovial-dasik-0fdaad.netlify.app/)
 
 ## My process
 
